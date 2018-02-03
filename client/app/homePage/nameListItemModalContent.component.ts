@@ -117,5 +117,7 @@ export class NameListItemModalContentComponent implements OnInit {
             this.lastNameControl.markAsTouched();
             this.emailControl.markAsTouched();
         }
+
     }
+
 }
